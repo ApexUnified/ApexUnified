@@ -28,7 +28,7 @@ Laravel, React, Livewire, Bootstrap, Tailwind CSS, APIs, full-stack architecture
 ---
 ⚡ Fun Fact
 
-I love crafting starter kits, automating workflows, and making developers' lives easier! 🚀
+I love crafting starter kits, automating workflows, building business solutions — all to make life easier for developers and everyday people! 🚀
 
 
 ## 🌐 Socials:
