@@ -26,29 +26,49 @@ Tailwind Css, DevOps (Docker, CI/CD), advanced Laravel packages
 Laravel, React, Liveire, Bootstrap, Tailwind CSS, APIs, full-stack architectures
 
 ---
-📫 How to reach me
-
-📧 abdullahsheikhmuhammad21@gmail.com
-
-📧 apexunified@gmail.com
-
-<!-- ---
-
-## 🌐 All of my projects are available at
-🔗 [https://your-portfolio-link.com](https://your-portfolio-link.com)
-
----
-
-## ✍ I regularly write articles on
-📝 [https://your-blog-link.com](https://your-blog-link.com)
-
----
-
-## 📄 Know about my experiences
-📂 [https://your-resume-link.com](https://your-resume-link.com)
-
---- -->
----
 ⚡ Fun Fact
 
 I love crafting starter kits, automating workflows, and making developers' lives easier! 🚀
+
+
+## 🌐 Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sheikh-muhammad-abdullah-44a203262)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/SMAbdullah_2004)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01e1e6ec6ba19190d4)
+
+
+## 💻 Tech Stack:
+
+### 🧠 Languages & Scripting
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🚀 Frameworks & Libraries
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Inertia.js](https://img.shields.io/badge/Inertia.js-2D3748?style=for-the-badge&logo=inertia&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ⚙️ Backend & DB
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 🧪 Testing & APIs
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### 🛠 Dev Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### ☁️ Deployment
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![cPanel](https://img.shields.io/badge/cPanel-E95420?style=for-the-badge&logo=cpanel&logoColor=white)
