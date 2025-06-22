@@ -23,7 +23,7 @@ Tailwind Css, DevOps (Docker, CI/CD), advanced Laravel packages
 
 💬 Ask me about
 
-Laravel, React, Liveire, Bootstrap, Tailwind CSS, APIs, full-stack architectures
+Laravel, React, Livewire, Bootstrap, Tailwind CSS, APIs, full-stack architectures
 
 ---
 ⚡ Fun Fact
