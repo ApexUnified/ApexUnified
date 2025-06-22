@@ -16,7 +16,7 @@ Full-stack projects with modern stacks (Laravel + React + Tailwind CSS)
 Open-source Laravel SaaS or CMS projects or Custom projects
 
 **🌱 I’m currently learning**  
-Tailwind Css, DevOps (Docker, CI/CD), advanced Laravel packages
+Tailwind Css, Flutter, advanced Laravel packages
 
 
 ---
