@@ -35,7 +35,6 @@ I love crafting starter kits, automating workflows, and making developers' lives
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheikh-muhammad-abdullah-44a203262)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/SMAbdullah_2004)
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01e1e6ec6ba19190d4)
 
 
 ## 💻 Tech Stack:
@@ -73,3 +72,10 @@ I love crafting starter kits, automating workflows, and making developers' lives
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![cPanel](https://img.shields.io/badge/cPanel-E95420?style=for-the-badge&logo=cpanel&logoColor=white)
+
+
+
+## 💼 Hire Me:
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01e1e6ec6ba19190d4)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/e6wlzZk)
+[![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white)](https://www.freelancer.com/u/DevSMAbdullah?frm=DevSMAbdullah&sb=t)
