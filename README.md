@@ -69,6 +69,7 @@ I love crafting starter kits, automating workflows, and making developers' lives
 
 ### ☁️ Deployment
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![cPanel](https://img.shields.io/badge/cPanel-E95420?style=for-the-badge&logo=cpanel&logoColor=white)
